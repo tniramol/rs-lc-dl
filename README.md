@@ -16,7 +16,7 @@ __Workshop Hands on__
 
 __Materials__
 
-[Slide show]()
+[Slide show](https://github.com/thanthamky/rs-lc-dl/blob/main/slideshow_compressed.pdf)
 
 [Session 1: Basic Python and Array Math](https://colab.research.google.com/github/thanthamky/rs-lc-dl/blob/main/1_Python_Math.ipynb)
 
