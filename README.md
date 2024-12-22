@@ -9,22 +9,22 @@ __Instructors__
 
 __Workshop Hands on__
 
-- Session 1: Basic Python and Array Math
+- __Session 1: Basic Python and Array Math__
   - Basic Python variable, function, arithmetic operators
   - Linear algebra basic
   - Scalar, vector, matrix, tensor
-- Session 2: Raster Manipulation and Machine Learning
+- __Session 2: Raster Manipulation and Machine Learning__
   - Raster file read, show
   - Raster sample and exploratory + matplotlib
   - Machine learning modeling
   - Model inferencing
-- Session 3: Deep Learning Principle
+- __Session 3: Deep Learning Principle__
   - Neural networks and deep learning
   - Pytorch modeling
   - Layer and model practices
-- Session 4: Model Training and Inferencing
-  - remote sensing classification model training
-  - model usage and inferencing
+- __Session 4: Model Training and Inferencing__
+  - Remote sensing classification model training
+  - Model usage and inferencing
 
 __Materials__
 
